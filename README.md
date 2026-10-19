@@ -4,9 +4,22 @@ A menu-driven, console-based banking system written in C. The project is built a
 
 ## Author
 
+- **Name:** Tapas Mehta
+- **Roll No.:** N082 | **Division:** E1
+- **Program:** MBA Tech Computer Engineering, SVKM's NMIMS MPSTME, Mumbai
+
+- **Name:** Anshuman Modgil
+- **Roll No.:** N084 | **Division:** E1
+- **Program:** MBA Tech Computer Engineering, SVKM's NMIMS MPSTME, Mumbai
+
 - **Name:** Suyash Moodbidri
-- **Roll No.:** N086 | **SAP ID:** 70472500180 | **Division:** E1
-- **Program:** B.Tech Computer Engineering (Integrated MBA Tech), SVKM's NMIMS MPSTME, Mumbai
+- **Roll No.:** N086 | **Division:** E1
+- **Program:** MBA Tech Computer Engineering, SVKM's NMIMS MPSTME, Mumbai
+
+- **Name:** Sansita Sahu
+- **Roll No.:** N105 | **Division:** E1
+- **Program:** MBA Tech Computer Engineering, SVKM's NMIMS MPSTME, Mumbai
+
 
 ## Features
 
